@@ -1,0 +1,5 @@
+{
+  "name": "AI Prompt Input Box",
+  "description": "A sophisticated prompt input box with file upload, voice recording, and toggle modes.",
+  "requestFramePermissions": []
+}
